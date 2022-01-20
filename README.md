@@ -1,3 +1,3 @@
 # DelightDish
-- Developed full-stack web application for online food ordering 
-- Include signup, restaurant & menu searching, ordering and checkout.  
+- Developed full-stack web application for online food ordering. 
+- Customer can signup, search restaurants & menus, put order, and checkout.  
